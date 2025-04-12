@@ -1,0 +1,761 @@
+rule-providers:
+  ChinaIp:
+    type: file
+    path: ./output/ChinaIp.yaml
+    behavior: classical
+    format: yaml
+  ChinaDomain:
+    type: file
+    path: ./output/ChinaDomain.yaml
+    behavior: classical
+    format: yaml
+  Xbox:
+    type: file
+    path: ./output/Xbox.yaml
+    behavior: classical
+    format: yaml
+  Apple:
+    type: file
+    path: ./output/Apple.yaml
+    behavior: classical
+    format: yaml
+  ProxyMedia:
+    type: file
+    path: ./output/ProxyMedia.yaml
+    behavior: classical
+    format: yaml
+  LocalAreaNetwork:
+    type: file
+    path: ./output/LocalAreaNetwork.yaml
+    behavior: classical
+    format: yaml
+  ChinaCompanyIp:
+    type: file
+    path: ./output/ChinaCompanyIp.yaml
+    behavior: classical
+    format: yaml
+  BanEasyList:
+    type: file
+    path: ./output/BanEasyList.yaml
+    behavior: classical
+    format: yaml
+  ZJU:
+    type: file
+    path: ./output/ZJU.yaml
+    behavior: classical
+    format: yaml
+  ChinaMedia:
+    type: file
+    path: ./output/ChinaMedia.yaml
+    behavior: classical
+    format: yaml
+  BanEasyPrivacy:
+    type: file
+    path: ./output/BanEasyPrivacy.yaml
+    behavior: classical
+    format: yaml
+  Download:
+    type: file
+    path: ./output/Download.yaml
+    behavior: classical
+    format: yaml
+  ChinaIpV6:
+    type: file
+    path: ./output/ChinaIpV6.yaml
+    behavior: classical
+    format: yaml
+  BanProgramAD:
+    type: file
+    path: ./output/BanProgramAD.yaml
+    behavior: classical
+    format: yaml
+  ZJU-More-Scholar:
+    type: file
+    path: ./output/ZJU-More-Scholar.yaml
+    behavior: classical
+    format: yaml
+  Microsoft:
+    type: file
+    path: ./output/Microsoft.yaml
+    behavior: classical
+    format: yaml
+  OneDrive:
+    type: file
+    path: ./output/OneDrive.yaml
+    behavior: classical
+    format: yaml
+  BanAD:
+    type: file
+    path: ./output/BanAD.yaml
+    behavior: classical
+    format: yaml
+  Netflix:
+    type: file
+    path: ./output/Netflix.yaml
+    behavior: classical
+    format: yaml
+  Telegram:
+    type: file
+    path: ./output/Telegram.yaml
+    behavior: classical
+    format: yaml
+  GoogleCN:
+    type: file
+    path: ./output/GoogleCN.yaml
+    behavior: classical
+    format: yaml
+  ProxyLite:
+    type: file
+    path: ./output/ProxyLite.yaml
+    behavior: classical
+    format: yaml
+  ProxyGFWlist:
+    type: file
+    path: ./output/ProxyGFWlist.yaml
+    behavior: classical
+    format: yaml
+  BanEasyListChina:
+    type: file
+    path: ./output/BanEasyListChina.yaml
+    behavior: classical
+    format: yaml
+  UnBan:
+    type: file
+    path: ./output/UnBan.yaml
+    behavior: classical
+    format: yaml
+  Amazon:
+    type: file
+    path: ./output/Amazon.yaml
+    behavior: classical
+    format: yaml
+  Instagram:
+    type: file
+    path: ./output/Instagram.yaml
+    behavior: classical
+    format: yaml
+  Douyu:
+    type: file
+    path: ./output/Douyu.yaml
+    behavior: classical
+    format: yaml
+  Discord:
+    type: file
+    path: ./output/Discord.yaml
+    behavior: classical
+    format: yaml
+  Bilibili:
+    type: file
+    path: ./output/Bilibili.yaml
+    behavior: classical
+    format: yaml
+  TikTok:
+    type: file
+    path: ./output/TikTok.yaml
+    behavior: classical
+    format: yaml
+  ITV:
+    type: file
+    path: ./output/ITV.yaml
+    behavior: classical
+    format: yaml
+  MyTVSuper:
+    type: file
+    path: ./output/MyTVSuper.yaml
+    behavior: classical
+    format: yaml
+  TapTap:
+    type: file
+    path: ./output/TapTap.yaml
+    behavior: classical
+    format: yaml
+  Alibaba:
+    type: file
+    path: ./output/Alibaba.yaml
+    behavior: classical
+    format: yaml
+  GoogleCNProxyIP:
+    type: file
+    path: ./output/GoogleCNProxyIP.yaml
+    behavior: classical
+    format: yaml
+  ChinaNet:
+    type: file
+    path: ./output/ChinaNet.yaml
+    behavior: classical
+    format: yaml
+  JOOX:
+    type: file
+    path: ./output/JOOX.yaml
+    behavior: classical
+    format: yaml
+  Steam:
+    type: file
+    path: ./output/Steam.yaml
+    behavior: classical
+    format: yaml
+  Youku:
+    type: file
+    path: ./output/Youku.yaml
+    behavior: classical
+    format: yaml
+  EncoreTVB:
+    type: file
+    path: ./output/EncoreTVB.yaml
+    behavior: classical
+    format: yaml
+  EHGallery:
+    type: file
+    path: ./output/EHGallery.yaml
+    behavior: classical
+    format: yaml
+  FoxNow:
+    type: file
+    path: ./output/FoxNow.yaml
+    behavior: classical
+    format: yaml
+  Developer:
+    type: file
+    path: ./output/Developer.yaml
+    behavior: classical
+    format: yaml
+  Pandora:
+    type: file
+    path: ./output/Pandora.yaml
+    behavior: classical
+    format: yaml
+  Hulu:
+    type: file
+    path: ./output/Hulu.yaml
+    behavior: classical
+    format: yaml
+  SteamCN:
+    type: file
+    path: ./output/SteamCN.yaml
+    behavior: classical
+    format: yaml
+  HBO:
+    type: file
+    path: ./output/HBO.yaml
+    behavior: classical
+    format: yaml
+  Spark:
+    type: file
+    path: ./output/Spark.yaml
+    behavior: classical
+    format: yaml
+  NetflixIP:
+    type: file
+    path: ./output/NetflixIP.yaml
+    behavior: classical
+    format: yaml
+  KKBOX:
+    type: file
+    path: ./output/KKBOX.yaml
+    behavior: classical
+    format: yaml
+  Meitu:
+    type: file
+    path: ./output/Meitu.yaml
+    behavior: classical
+    format: yaml
+  IqiyiHMT:
+    type: file
+    path: ./output/IqiyiHMT.yaml
+    behavior: classical
+    format: yaml
+  LiTV:
+    type: file
+    path: ./output/LiTV.yaml
+    behavior: classical
+    format: yaml
+  Adobe:
+    type: file
+    path: ./output/Adobe.yaml
+    behavior: classical
+    format: yaml
+  Xunlei:
+    type: file
+    path: ./output/Xunlei.yaml
+    behavior: classical
+    format: yaml
+  LeTV:
+    type: file
+    path: ./output/LeTV.yaml
+    behavior: classical
+    format: yaml
+  Line:
+    type: file
+    path: ./output/Line.yaml
+    behavior: classical
+    format: yaml
+  HuluJapan:
+    type: file
+    path: ./output/HuluJapan.yaml
+    behavior: classical
+    format: yaml
+  KakaoTalk:
+    type: file
+    path: ./output/KakaoTalk.yaml
+    behavior: classical
+    format: yaml
+  YYeTs:
+    type: file
+    path: ./output/YYeTs.yaml
+    behavior: classical
+    format: yaml
+  YouTube:
+    type: file
+    path: ./output/YouTube.yaml
+    behavior: classical
+    format: yaml
+  All4:
+    type: file
+    path: ./output/All4.yaml
+    behavior: classical
+    format: yaml
+  Bahamut:
+    type: file
+    path: ./output/Bahamut.yaml
+    behavior: classical
+    format: yaml
+  Binance:
+    type: file
+    path: ./output/Binance.yaml
+    behavior: classical
+    format: yaml
+  HBO_GO_HKG:
+    type: file
+    path: ./output/HBO_GO_HKG.yaml
+    behavior: classical
+    format: yaml
+  Spotify:
+    type: file
+    path: ./output/Spotify.yaml
+    behavior: classical
+    format: yaml
+  Wechat:
+    type: file
+    path: ./output/Wechat.yaml
+    behavior: classical
+    format: yaml
+  SohuSogo:
+    type: file
+    path: ./output/SohuSogo.yaml
+    behavior: classical
+    format: yaml
+  Ximalaya:
+    type: file
+    path: ./output/Ximalaya.yaml
+    behavior: classical
+    format: yaml
+  GoogleEarth:
+    type: file
+    path: ./output/GoogleEarth.yaml
+    behavior: classical
+    format: yaml
+  Twitch:
+    type: file
+    path: ./output/Twitch.yaml
+    behavior: classical
+    format: yaml
+  Dmm:
+    type: file
+    path: ./output/Dmm.yaml
+    behavior: classical
+    format: yaml
+  TencentVideo:
+    type: file
+    path: ./output/TencentVideo.yaml
+    behavior: classical
+    format: yaml
+  MGTVTV:
+    type: file
+    path: ./output/MGTVTV.yaml
+    behavior: classical
+    format: yaml
+  Scholar:
+    type: file
+    path: ./output/Scholar.yaml
+    behavior: classical
+    format: yaml
+  AppleNews:
+    type: file
+    path: ./output/AppleNews.yaml
+    behavior: classical
+    format: yaml
+  RemoteDesktop:
+    type: file
+    path: ./output/RemoteDesktop.yaml
+    behavior: classical
+    format: yaml
+  Pixiv:
+    type: file
+    path: ./output/Pixiv.yaml
+    behavior: classical
+    format: yaml
+  Blizzard:
+    type: file
+    path: ./output/Blizzard.yaml
+    behavior: classical
+    format: yaml
+  BBC:
+    type: file
+    path: ./output/BBC.yaml
+    behavior: classical
+    format: yaml
+  Marketing:
+    type: file
+    path: ./output/Marketing.yaml
+    behavior: classical
+    format: yaml
+  AbemaTV:
+    type: file
+    path: ./output/AbemaTV.yaml
+    behavior: classical
+    format: yaml
+  GoogleFCM:
+    type: file
+    path: ./output/GoogleFCM.yaml
+    behavior: classical
+    format: yaml
+  BilibiliHMT:
+    type: file
+    path: ./output/BilibiliHMT.yaml
+    behavior: classical
+    format: yaml
+  PDD:
+    type: file
+    path: ./output/PDD.yaml
+    behavior: classical
+    format: yaml
+  CN:
+    type: file
+    path: ./output/CN.yaml
+    behavior: classical
+    format: yaml
+  Pornhub:
+    type: file
+    path: ./output/Pornhub.yaml
+    behavior: classical
+    format: yaml
+  MOO:
+    type: file
+    path: ./output/MOO.yaml
+    behavior: classical
+    format: yaml
+  AppleTV:
+    type: file
+    path: ./output/AppleTV.yaml
+    behavior: classical
+    format: yaml
+  Porn:
+    type: file
+    path: ./output/Porn.yaml
+    behavior: classical
+    format: yaml
+  F1:
+    type: file
+    path: ./output/F1.yaml
+    behavior: classical
+    format: yaml
+  DiscoveryPlus:
+    type: file
+    path: ./output/DiscoveryPlus.yaml
+    behavior: classical
+    format: yaml
+  Qobuz:
+    type: file
+    path: ./output/Qobuz.yaml
+    behavior: classical
+    format: yaml
+  Facebook:
+    type: file
+    path: ./output/Facebook.yaml
+    behavior: classical
+    format: yaml
+  PBS:
+    type: file
+    path: ./output/PBS.yaml
+    behavior: classical
+    format: yaml
+  LineTV:
+    type: file
+    path: ./output/LineTV.yaml
+    behavior: classical
+    format: yaml
+  NetEaseMusic:
+    type: file
+    path: ./output/NetEaseMusic.yaml
+    behavior: classical
+    format: yaml
+  Wikipedia:
+    type: file
+    path: ./output/Wikipedia.yaml
+    behavior: classical
+    format: yaml
+  Sony:
+    type: file
+    path: ./output/Sony.yaml
+    behavior: classical
+    format: yaml
+  Whatsapp:
+    type: file
+    path: ./output/Whatsapp.yaml
+    behavior: classical
+    format: yaml
+  Kingsoft:
+    type: file
+    path: ./output/Kingsoft.yaml
+    behavior: classical
+    format: yaml
+  Epic:
+    type: file
+    path: ./output/Epic.yaml
+    behavior: classical
+    format: yaml
+  Dubox:
+    type: file
+    path: ./output/Dubox.yaml
+    behavior: classical
+    format: yaml
+  KKTV:
+    type: file
+    path: ./output/KKTV.yaml
+    behavior: classical
+    format: yaml
+  JD:
+    type: file
+    path: ./output/JD.yaml
+    behavior: classical
+    format: yaml
+  ByteDance:
+    type: file
+    path: ./output/ByteDance.yaml
+    behavior: classical
+    format: yaml
+  Baidu:
+    type: file
+    path: ./output/Baidu.yaml
+    behavior: classical
+    format: yaml
+  NetEase:
+    type: file
+    path: ./output/NetEase.yaml
+    behavior: classical
+    format: yaml
+  HWTV:
+    type: file
+    path: ./output/HWTV.yaml
+    behavior: classical
+    format: yaml
+  DisneyPlus:
+    type: file
+    path: ./output/DisneyPlus.yaml
+    behavior: classical
+    format: yaml
+  Tencent:
+    type: file
+    path: ./output/Tencent.yaml
+    behavior: classical
+    format: yaml
+  TeamViewer:
+    type: file
+    path: ./output/TeamViewer.yaml
+    behavior: classical
+    format: yaml
+  Iflytek:
+    type: file
+    path: ./output/Iflytek.yaml
+    behavior: classical
+    format: yaml
+  Vip:
+    type: file
+    path: ./output/Vip.yaml
+    behavior: classical
+    format: yaml
+  GameDownload:
+    type: file
+    path: ./output/GameDownload.yaml
+    behavior: classical
+    format: yaml
+  Japonx:
+    type: file
+    path: ./output/Japonx.yaml
+    behavior: classical
+    format: yaml
+  ViuTV:
+    type: file
+    path: ./output/ViuTV.yaml
+    behavior: classical
+    format: yaml
+  PPTVPPLive:
+    type: file
+    path: ./output/PPTVPPLive.yaml
+    behavior: classical
+    format: yaml
+  DAZN:
+    type: file
+    path: ./output/DAZN.yaml
+    behavior: classical
+    format: yaml
+  HuaWei:
+    type: file
+    path: ./output/HuaWei.yaml
+    behavior: classical
+    format: yaml
+  TeraBox:
+    type: file
+    path: ./output/TeraBox.yaml
+    behavior: classical
+    format: yaml
+  ABC:
+    type: file
+    path: ./output/ABC.yaml
+    behavior: classical
+    format: yaml
+  TopBlockedSites:
+    type: file
+    path: ./output/TopBlockedSites.yaml
+    behavior: classical
+    format: yaml
+  58:
+    type: file
+    path: ./output/58.yaml
+    behavior: classical
+    format: yaml
+  BBCiPlayer:
+    type: file
+    path: ./output/BBCiPlayer.yaml
+    behavior: classical
+    format: yaml
+  4399:
+    type: file
+    path: ./output/4399.yaml
+    behavior: classical
+    format: yaml
+  DiDi:
+    type: file
+    path: ./output/DiDi.yaml
+    behavior: classical
+    format: yaml
+  CCTV:
+    type: file
+    path: ./output/CCTV.yaml
+    behavior: classical
+    format: yaml
+  AmazonIp:
+    type: file
+    path: ./output/AmazonIp.yaml
+    behavior: classical
+    format: yaml
+  Iqiyi:
+    type: file
+    path: ./output/Iqiyi.yaml
+    behavior: classical
+    format: yaml
+  360:
+    type: file
+    path: ./output/360.yaml
+    behavior: classical
+    format: yaml
+  SoundCloud:
+    type: file
+    path: ./output/SoundCloud.yaml
+    behavior: classical
+    format: yaml
+  Google:
+    type: file
+    path: ./output/Google.yaml
+    behavior: classical
+    format: yaml
+  Niconico:
+    type: file
+    path: ./output/Niconico.yaml
+    behavior: classical
+    format: yaml
+  PublicDirectCDN:
+    type: file
+    path: ./output/PublicDirectCDN.yaml
+    behavior: classical
+    format: yaml
+  Sina:
+    type: file
+    path: ./output/Sina.yaml
+    behavior: classical
+    format: yaml
+  Reddit:
+    type: file
+    path: ./output/Reddit.yaml
+    behavior: classical
+    format: yaml
+  TaiWanGood:
+    type: file
+    path: ./output/TaiWanGood.yaml
+    behavior: classical
+    format: yaml
+  Nintendo:
+    type: file
+    path: ./output/Nintendo.yaml
+    behavior: classical
+    format: yaml
+  Github:
+    type: file
+    path: ./output/Github.yaml
+    behavior: classical
+    format: yaml
+  YouTubeMusic:
+    type: file
+    path: ./output/YouTubeMusic.yaml
+    behavior: classical
+    format: yaml
+  Twitter:
+    type: file
+    path: ./output/Twitter.yaml
+    behavior: classical
+    format: yaml
+  TencentLolm:
+    type: file
+    path: ./output/TencentLolm.yaml
+    behavior: classical
+    format: yaml
+  Kuaishou:
+    type: file
+    path: ./output/Kuaishou.yaml
+    behavior: classical
+    format: yaml
+  Deezer:
+    type: file
+    path: ./output/Deezer.yaml
+    behavior: classical
+    format: yaml
+  AccelerateDirectSites:
+    type: file
+    path: ./output/AccelerateDirectSites.yaml
+    behavior: classical
+    format: yaml
+  PrivateTracker:
+    type: file
+    path: ./output/PrivateTracker.yaml
+    behavior: classical
+    format: yaml
+  My5:
+    type: file
+    path: ./output/My5.yaml
+    behavior: classical
+    format: yaml
+  MI:
+    type: file
+    path: ./output/MI.yaml
+    behavior: classical
+    format: yaml
+  VikACG:
+    type: file
+    path: ./output/VikACG.yaml
+    behavior: classical
+    format: yaml
+  TIDAL:
+    type: file
+    path: ./output/TIDAL.yaml
+    behavior: classical
+    format: yaml

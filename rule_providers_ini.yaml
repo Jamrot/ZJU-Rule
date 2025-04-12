@@ -1,0 +1,176 @@
+rule-providers:
+  ZJU:
+    type: file
+    path: ./output/ZJU.yaml
+    behavior: classical
+    format: yaml
+  ZJU-More-Scholar:
+    type: file
+    path: ./output/ZJU-More-Scholar.yaml
+    behavior: classical
+    format: yaml
+  LocalAreaNetwork:
+    type: file
+    path: ./output/LocalAreaNetwork.yaml
+    behavior: classical
+    format: yaml
+  UnBan:
+    type: file
+    path: ./output/UnBan.yaml
+    behavior: classical
+    format: yaml
+  GoogleCN:
+    type: file
+    path: ./output/GoogleCN.yaml
+    behavior: classical
+    format: yaml
+  SteamCN:
+    type: file
+    path: ./output/SteamCN.yaml
+    behavior: classical
+    format: yaml
+  Adobe:
+    type: file
+    path: ./output/Adobe.yaml
+    behavior: classical
+    format: yaml
+  PrivateTracker:
+    type: file
+    path: ./output/PrivateTracker.yaml
+    behavior: classical
+    format: yaml
+  ChinaIp:
+    type: file
+    path: ./output/ChinaIp.yaml
+    behavior: classical
+    format: yaml
+  ChinaDomain:
+    type: file
+    path: ./output/ChinaDomain.yaml
+    behavior: classical
+    format: yaml
+  ChinaCompanyIp:
+    type: file
+    path: ./output/ChinaCompanyIp.yaml
+    behavior: classical
+    format: yaml
+  Download:
+    type: file
+    path: ./output/Download.yaml
+    behavior: classical
+    format: yaml
+  BanAD:
+    type: file
+    path: ./output/BanAD.yaml
+    behavior: classical
+    format: yaml
+  BanProgramAD:
+    type: file
+    path: ./output/BanProgramAD.yaml
+    behavior: classical
+    format: yaml
+  BanEasyList:
+    type: file
+    path: ./output/BanEasyList.yaml
+    behavior: classical
+    format: yaml
+  BanEasyListChina:
+    type: file
+    path: ./output/BanEasyListChina.yaml
+    behavior: classical
+    format: yaml
+  BanEasyPrivacy:
+    type: file
+    path: ./output/BanEasyPrivacy.yaml
+    behavior: classical
+    format: yaml
+  GoogleFCM:
+    type: file
+    path: ./output/GoogleFCM.yaml
+    behavior: classical
+    format: yaml
+  OneDrive:
+    type: file
+    path: ./output/OneDrive.yaml
+    behavior: classical
+    format: yaml
+  Microsoft:
+    type: file
+    path: ./output/Microsoft.yaml
+    behavior: classical
+    format: yaml
+  Apple:
+    type: file
+    path: ./output/Apple.yaml
+    behavior: classical
+    format: yaml
+  Telegram:
+    type: file
+    path: ./output/Telegram.yaml
+    behavior: classical
+    format: yaml
+  NetEaseMusic:
+    type: file
+    path: ./output/NetEaseMusic.yaml
+    behavior: classical
+    format: yaml
+  Epic:
+    type: file
+    path: ./output/Epic.yaml
+    behavior: classical
+    format: yaml
+  Sony:
+    type: file
+    path: ./output/Sony.yaml
+    behavior: classical
+    format: yaml
+  Steam:
+    type: file
+    path: ./output/Steam.yaml
+    behavior: classical
+    format: yaml
+  Nintendo:
+    type: file
+    path: ./output/Nintendo.yaml
+    behavior: classical
+    format: yaml
+  YouTube:
+    type: file
+    path: ./output/YouTube.yaml
+    behavior: classical
+    format: yaml
+  Netflix:
+    type: file
+    path: ./output/Netflix.yaml
+    behavior: classical
+    format: yaml
+  Bahamut:
+    type: file
+    path: ./output/Bahamut.yaml
+    behavior: classical
+    format: yaml
+  BilibiliHMT:
+    type: file
+    path: ./output/BilibiliHMT.yaml
+    behavior: classical
+    format: yaml
+  Bilibili:
+    type: file
+    path: ./output/Bilibili.yaml
+    behavior: classical
+    format: yaml
+  ChinaMedia:
+    type: file
+    path: ./output/ChinaMedia.yaml
+    behavior: classical
+    format: yaml
+  ProxyMedia:
+    type: file
+    path: ./output/ProxyMedia.yaml
+    behavior: classical
+    format: yaml
+  ProxyGFWlist:
+    type: file
+    path: ./output/ProxyGFWlist.yaml
+    behavior: classical
+    format: yaml
